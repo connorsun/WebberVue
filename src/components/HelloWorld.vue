@@ -21,11 +21,11 @@
     </ul>
     <h3>Necessary References</h3>
     <ul>
-      <li><a href="https://app.netlify.com/sites/kind-thompson-55f6b8/settings/deploys" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://kind-thompson-55f6b8.netlify.com/" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/connorsun/WebberVue" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://material.io/resources/icons/?style=baseline" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="http://localhost:8080/" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li><a href="https://app.netlify.com/sites/kind-thompson-55f6b8/settings/deploys" target="_blank" rel="noopener">netlify settings</a></li>
+      <li><a href="https://kind-thompson-55f6b8.netlify.com/" target="_blank" rel="noopener">this website</a></li>
+      <li><a href="https://github.com/connorsun/WebberVue" target="_blank" rel="noopener">github</a></li>
+      <li><a href="https://material.io/resources/icons/?style=baseline" target="_blank" rel="noopener">material icons</a></li>
+      <li><a href="http://localhost:8080/" target="_blank" rel="noopener">localhost</a></li>
     </ul>
   </div>
 </template>
